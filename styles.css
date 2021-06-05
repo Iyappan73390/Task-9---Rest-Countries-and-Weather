@@ -1,0 +1,80 @@
+body {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    justify-content: center;
+    row-gap: 15px;
+    column-gap: 40px;
+    background-color: gray;
+    margin: 20px 20px;
+}
+
+img{
+    width: 350;
+    height: 350;
+}
+
+.card{
+    width: 250px;
+    text-align: center;
+    
+}
+
+.cap1{
+   display: inline-block; 
+   padding: 5px;
+   margin: 2px;
+}
+
+.cap2{
+    display: inline-block;
+    padding: 5px;
+    margin: 2px; 
+ }
+
+ .cod1{
+    display: inline-block; 
+    padding: 5px;
+    margin: 2px;
+ }
+ 
+ .cod2{
+     display: inline-block;
+     padding: 5px;
+     margin: 2px; 
+  }
+
+  .reg1{
+    display: inline-block; 
+    padding: 5px;
+    margin: 2px;
+ }
+ 
+ .reg2{
+     display: inline-block;
+     padding: 5px;
+     margin: 2px; 
+  }
+
+  .lat1{
+    display: inline-block; 
+    padding: 5px;
+    margin: 2px;
+ }
+ 
+ .lat2{
+     display: inline-block;
+     padding: 5px;
+     margin: 2px; 
+  }
+
+  .myicon{
+      height: 50px;
+      width: 50px;
+      position: relative;
+      left: 220px;
+      
+  }
+
+  .modal-content{
+      text-align: center;
+  }
